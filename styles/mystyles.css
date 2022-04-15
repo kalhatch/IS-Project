@@ -1,0 +1,19 @@
+body {
+    background-color: violet;
+}
+
+.homeBG { background-image: url('../images/Kallie+Hatch.jpg');
+    background-size: stretch;
+    background-position: top center;
+ }
+ .bold { 
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+} 
+.custom {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: left;
+    font-size:larger;
+}
